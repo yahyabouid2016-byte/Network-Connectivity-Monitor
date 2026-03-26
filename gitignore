@@ -1,0 +1,13 @@
+# Logs — auto-generated, do not commit
+*.log
+Network_Monitor_Log.txt
+
+# Real hosts file — may contain sensitive IPs
+hosts.txt
+
+# Keep the example file
+!hosts.example.txt
+
+# Windows artifacts
+Thumbs.db
+desktop.ini

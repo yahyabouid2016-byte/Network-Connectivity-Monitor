@@ -1,0 +1,19 @@
+# ============================================
+# hosts.example.txt — rename to hosts.txt
+# One IP or hostname per line
+# Lines starting with # are ignored
+# ============================================
+
+# --- Gateway / Router ---
+192.168.1.1
+
+# --- Servers ---
+192.168.1.10
+192.168.1.20
+
+# --- Network devices ---
+192.168.1.50
+
+# --- External connectivity ---
+8.8.8.8
+google.com
